@@ -5,7 +5,7 @@ Last Updated: 10/25/2023
 
 1. Information Collection
 
-We may collect the following types of information from our users, especially those under the age of 13:
+    We may collect the following types of information from our users, especially those under the age of 13:
 
     User account information: This may include usernames, avatars, and email addresses for account creation and customization purposes.
     Device Information: We collect device-specific information such as device type, operating system, and unique device identifiers for optimizing your gaming experience.
@@ -16,7 +16,7 @@ We understand the importance of protecting the privacy of children under 13. To 
 
 3. Data Usage
 
-We use the collected data for the following purposes:
+    We use the collected data for the following purposes:
 
     To create and customize user accounts.
     To provide in-game services and features.
@@ -36,7 +36,7 @@ We retain user data for as long as it is necessary to provide our services. Once
 
 7. User Rights
 
-Users and their parents have the right to:
+    Users and their parents have the right to:
 
     Access the personal information we have collected.
     Correct any inaccuracies in their personal information.
@@ -48,7 +48,7 @@ If you have any questions or concerns regarding privacy or your child's informat
 
 9. Third-Party Services
 
-Our game may use third-party services such as analytics or advertising networks. Please review their privacy policies for details on data collection and usage.
+    Our game may use third-party services such as analytics or advertising networks. Please review their privacy policies for details on data collection and usage.
 
 10. Cookies and Tracking
 
@@ -56,7 +56,7 @@ We do not use cookies or tracking technologies to collect personal information.
 
 11. Updates to the Policy
 
-We will notify users and parents of any changes to this Privacy Policy. We will obtain parental consent, where necessary, before implementing significant changes.
+    We will notify users and parents of any changes to this Privacy Policy. We will obtain parental consent, where necessary, before implementing significant changes.
 
 12. Geolocation Data
 
@@ -74,8 +74,8 @@ We may implement age verification mechanisms to ensure that users are appropriat
 
 15. Compliance Statements
 
-We are committed to complying with relevant privacy laws, including COPPA, to protect the privacy of children under 13.
+    We are committed to complying with relevant privacy laws, including COPPA, to protect the privacy of children under 13.
 
 16. Language and Accessibility
 
-This Privacy Policy is written in clear, simple language that is easy to understand by children and their parents. It is accessible within the game.
+    This Privacy Policy is written in clear, simple language that is easy to understand by children and their parents. It is accessible within the game.
